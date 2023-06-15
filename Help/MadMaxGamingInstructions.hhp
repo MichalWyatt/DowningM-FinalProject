@@ -1,0 +1,26 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=MadMaxGamingInstructions.chm
+Contents file=hlpMadMaxGamingInstructions.hhc
+Default topic=Help.htm
+Display compile progress=No
+Language=0x409 English (United States)
+Title=Mad Max Help File
+
+
+[FILES]
+AboutSection.htm
+AddToCart.htm
+Cart.htm
+CheckOut.htm
+ClearCart.htm
+ContinueShopping.htm
+Help.htm
+Home.htm
+HowToExit.htm
+Remove.htm
+ShoppingCart.htm
+WhatAreTheseButtons.htm
+
+[INFOTYPES]
+
